@@ -1,0 +1,8 @@
+D:\Mphasis\Assested Projects\ConAppDoubleLinkedList\ConAppDoubleLinkedList\bin\Debug\ConAppDoubleLinkedList.exe.config
+D:\Mphasis\Assested Projects\ConAppDoubleLinkedList\ConAppDoubleLinkedList\bin\Debug\ConAppDoubleLinkedList.exe
+D:\Mphasis\Assested Projects\ConAppDoubleLinkedList\ConAppDoubleLinkedList\bin\Debug\ConAppDoubleLinkedList.pdb
+D:\Mphasis\Assested Projects\ConAppDoubleLinkedList\ConAppDoubleLinkedList\obj\Debug\ConAppDoubleLinkedList.csproj.AssemblyReference.cache
+D:\Mphasis\Assested Projects\ConAppDoubleLinkedList\ConAppDoubleLinkedList\obj\Debug\ConAppDoubleLinkedList.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Assested Projects\ConAppDoubleLinkedList\ConAppDoubleLinkedList\obj\Debug\ConAppDoubleLinkedList.csproj.CoreCompileInputs.cache
+D:\Mphasis\Assested Projects\ConAppDoubleLinkedList\ConAppDoubleLinkedList\obj\Debug\ConAppDoubleLinkedList.exe
+D:\Mphasis\Assested Projects\ConAppDoubleLinkedList\ConAppDoubleLinkedList\obj\Debug\ConAppDoubleLinkedList.pdb
